@@ -1,0 +1,23 @@
+.title {
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.sample{
+	background-color:red;
+}
+
+.temp1{
+	font-size : 100px;
+}
+
+.form{	
+	display: none;
+}
+
+.greetings {
+	display:none;
+}
+.showing{
+	display: block;
+}
